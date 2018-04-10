@@ -1,0 +1,14 @@
+.container {
+	width: 300px;
+	padding:5px;
+}
+.list-group, #info-box {
+	margin:5px;
+}
+a:hover {
+	text-decoration: none !important;
+}
+.focusInit {
+	left: -1000px;
+	position: absolute;
+}

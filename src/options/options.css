@@ -1,0 +1,7 @@
+.container {
+	padding:10px;
+	width:600px;
+}
+button {
+	text-shadow: none !important;
+}
