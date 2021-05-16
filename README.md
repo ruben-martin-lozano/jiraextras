@@ -1,7 +1,7 @@
 # jira-extras
 
 ## Description
-This extension allows to fill description fields in Jira as User Story, Bug, etc. automatically with prefefined templates.
+This extension allows to fill description fields in Jira as User Story, Bug, etc. automatically with predefined templates.
 
 ## Installation
 1. Download /output/jira-extras.crx file.
